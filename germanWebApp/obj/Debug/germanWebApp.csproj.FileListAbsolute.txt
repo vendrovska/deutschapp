@@ -1,0 +1,309 @@
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\ApplicationInsights.config
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\csc.exe
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\vbc.exe
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\germanWebApp.dll.config
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\germanWebApp.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\germanWebApp.pdb
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Antlr3.Runtime.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\EntityFramework.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Newtonsoft.Json.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Owin.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Helpers.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Http.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Mvc.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Optimization.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Razor.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.WebPages.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\WebGrease.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Helpers.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Mvc.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Optimization.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Razor.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.WebPages.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Newtonsoft.Json.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Http.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\EntityFramework.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\obj\Debug\germanWebApp.dll
+C:\Users\alexey\documents\visual studio 2015\Projects\germanWebApp\germanWebApp\obj\Debug\germanWebApp.pdb
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\MongoDB.Bson.dll
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\MongoDB.Driver.Core.dll
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\MongoDB.Driver.dll
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\MongoDB.Driver.Legacy.dll
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\MongoDB.Bson.xml
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\MongoDB.Driver.xml
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\MongoDB.Driver.Legacy.xml
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\FluentAssertions.Core.dll
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\FluentAssertions.dll
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\Mixpanel.NET.dll
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\FluentAssertions.pdb
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\FluentAssertions.xml
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\FluentAssertions.Core.pdb
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\FluentAssertions.Core.xml
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\bin\Mixpanel.NET.pdb
+C:\Users\alexey\Documents\Visual Studio 2015\Projects\germanWebApp\germanWebApp\obj\Debug\germanWebApp.csprojResolveAssemblyReference.cache
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\ApplicationInsights.config
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\csc.exe
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\vbc.exe
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\germanWebApp.dll.config
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\germanWebApp.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\germanWebApp.pdb
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Antlr3.Runtime.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\EntityFramework.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\FluentAssertions.Core.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\FluentAssertions.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Mixpanel.NET.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\MongoDB.Bson.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\MongoDB.Driver.Core.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\MongoDB.Driver.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\MongoDB.Driver.Legacy.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Newtonsoft.Json.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Owin.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Helpers.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Http.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Mvc.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Optimization.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Razor.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.WebPages.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\WebGrease.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\FluentAssertions.pdb
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\FluentAssertions.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\FluentAssertions.Core.pdb
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\FluentAssertions.Core.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Mixpanel.NET.pdb
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\MongoDB.Bson.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\MongoDB.Driver.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\MongoDB.Driver.Legacy.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Helpers.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Mvc.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Optimization.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Razor.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.WebPages.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Newtonsoft.Json.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Http.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\EntityFramework.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\obj\Debug\germanWebApp.csprojResolveAssemblyReference.cache
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\obj\Debug\germanWebApp.dll
+C:\Users\alexey\Desktop\TANIA\College\BITBUCKET\german_app\germanWebApp\germanWebApp\obj\Debug\germanWebApp.pdb
+D:\Projects\deutsch\germanWebApp\bin\ApplicationInsights.config
+D:\Projects\deutsch\germanWebApp\bin\roslyn\csc.exe
+D:\Projects\deutsch\germanWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\deutsch\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\deutsch\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\deutsch\germanWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\deutsch\germanWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\deutsch\germanWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\deutsch\germanWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\deutsch\germanWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\deutsch\germanWebApp\bin\roslyn\vbc.exe
+D:\Projects\deutsch\germanWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Projects\deutsch\germanWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\deutsch\germanWebApp\bin\germanWebApp.dll.config
+D:\Projects\deutsch\germanWebApp\bin\germanWebApp.dll
+D:\Projects\deutsch\germanWebApp\bin\germanWebApp.pdb
+D:\Projects\deutsch\germanWebApp\bin\Antlr3.Runtime.dll
+D:\Projects\deutsch\germanWebApp\bin\EntityFramework.dll
+D:\Projects\deutsch\germanWebApp\bin\EntityFramework.SqlServer.dll
+D:\Projects\deutsch\germanWebApp\bin\FluentAssertions.Core.dll
+D:\Projects\deutsch\germanWebApp\bin\FluentAssertions.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.Web.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\deutsch\germanWebApp\bin\Mixpanel.NET.dll
+D:\Projects\deutsch\germanWebApp\bin\MongoDB.Bson.dll
+D:\Projects\deutsch\germanWebApp\bin\MongoDB.Driver.Core.dll
+D:\Projects\deutsch\germanWebApp\bin\MongoDB.Driver.dll
+D:\Projects\deutsch\germanWebApp\bin\MongoDB.Driver.Legacy.dll
+D:\Projects\deutsch\germanWebApp\bin\Newtonsoft.Json.dll
+D:\Projects\deutsch\germanWebApp\bin\Owin.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Net.Http.Formatting.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Helpers.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Http.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Http.WebHost.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Mvc.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Optimization.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Razor.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.WebPages.dll
+D:\Projects\deutsch\germanWebApp\bin\System.Web.WebPages.Razor.dll
+D:\Projects\deutsch\germanWebApp\bin\WebGrease.dll
+D:\Projects\deutsch\germanWebApp\bin\FluentAssertions.pdb
+D:\Projects\deutsch\germanWebApp\bin\FluentAssertions.xml
+D:\Projects\deutsch\germanWebApp\bin\FluentAssertions.Core.pdb
+D:\Projects\deutsch\germanWebApp\bin\FluentAssertions.Core.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.Web.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\deutsch\germanWebApp\bin\Mixpanel.NET.pdb
+D:\Projects\deutsch\germanWebApp\bin\MongoDB.Bson.xml
+D:\Projects\deutsch\germanWebApp\bin\MongoDB.Driver.xml
+D:\Projects\deutsch\germanWebApp\bin\MongoDB.Driver.Legacy.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Helpers.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Mvc.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Optimization.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Razor.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.WebPages.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.WebPages.Razor.xml
+D:\Projects\deutsch\germanWebApp\bin\Antlr3.Runtime.pdb
+D:\Projects\deutsch\germanWebApp\bin\Newtonsoft.Json.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Net.Http.Formatting.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Http.xml
+D:\Projects\deutsch\germanWebApp\bin\System.Web.Http.WebHost.xml
+D:\Projects\deutsch\germanWebApp\bin\EntityFramework.xml
+D:\Projects\deutsch\germanWebApp\bin\EntityFramework.SqlServer.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\deutsch\germanWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\deutsch\germanWebApp\obj\Debug\germanWebApp.csprojResolveAssemblyReference.cache
+D:\Projects\deutsch\germanWebApp\obj\Debug\germanWebApp.dll
+D:\Projects\deutsch\germanWebApp\obj\Debug\germanWebApp.pdb

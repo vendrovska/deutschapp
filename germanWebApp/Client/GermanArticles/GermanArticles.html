@@ -1,0 +1,40 @@
+﻿
+
+
+<div id='content' ng-controller='GameCtrl' data-ng-init="drawCurrentNoun()" flex layout-padding ng-cloak >
+    <div ng-if="!winner">
+        <div layou="row" id="giftList"></div>
+        <h6>words: {{score}}</h6>
+        <div layout="row" layout-align="center">
+            <p ng-if="curNoun.userAnswers == 1">
+                <md-icon style="color: #FFC08B;">star</md-icon>
+            </p>
+            <p ng-if="curNoun.userAnswers == 2">
+                <md-icon style="color: #FFC08B">star</md-icon>
+                <md-icon style="color: #FFC08B">star</md-icon>
+            </p>
+            <p ng-if="curNoun.userAnswers == 3">
+                <md-icon style="color: #FFC08B">star</md-icon>
+                <md-icon style="color: #FFC08B">star</md-icon>
+                <md-icon style="color: #FFC08B">star</md-icon>
+            </p>
+        </div>
+        <h1 layout="row" layout-align="center" ng-if="!showCorrect">{{curNoun.germanNoArticle}}</h1>
+        <h1 layout="row" layout-align="center" ng-if="showCorrect">{{curNoun.fullGermanForm}}</h1>
+        <h4 layout="row" layout-align="center">{{curNoun.english}}</h4>
+        <div layout="row" layout-align="center" id="userBtnSet">
+            <md-button ng-click="checkAnswer('der')" id="derBtn" class="md-raised">DER</md-button>
+            <md-button ng-click="checkAnswer('die')" id="dieBtn" class="md-raised">DIE</md-button>
+            <md-button ng-click="checkAnswer('das')" id="dasBtn" class="md-raised">DAS</md-button>
+        </div>
+
+    </div>
+<div ng-if="winner" id="theEnd">
+    <h1>Hooray!</h1>
+    <p layout="row" layout-align="center">You've made it to the end of the game!</p>
+            <div class="spinner" layout="row" layout-align="center">
+                <div class="cube1"></div>
+                <div class="cube2"></div>
+            </div>
+        </div>
+</div>

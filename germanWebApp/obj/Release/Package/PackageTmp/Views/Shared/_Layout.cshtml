@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html ng-app="GermanApp" ng-controller="HomeCtrl">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/Content/Images/favicon.ico">
+    <title>German App></title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/angular_material/1.0.0/angular-material.min.css">
+    <link rel="stylesheet" href="~/Content/Site.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head >
+<body ng-cloak layout="column" layout-fill flex style="background-color: #d35400;"  >
+    <div class="navbar navbar-inverse" >
+            <md-header class="navbar-header">      
+                 <a ng-href="#/home" class = "navbar-brand">German App</a>
+             </md-header>
+        </div>
+    <div layout="row" >
+         @RenderBody()
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <!--Angular Dependencies-->
+    @*<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>*@
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-route.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-animate.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-aria.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angular_material/1.0.4/angular-material.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-messages.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.1.2/ui-bootstrap.min.js"></script>
+
+    <!--Main App Module-->
+    <script src="~/Client/app.js"></script>
+
+<!--Controllers-->
+    <script src="~/Client/GermanArticles/GermanArticlesCtrl.js"></script>
+    <script src="~/Client/Home/HomeCtrl.js"></script>
+
+<!--Services-->
+ <script src="~/Client/Services/GameService.js"></script>
+@RenderSection("scripts", required: false)
+    <footer>
+        <h6>&copy; Tania LV</h6>
+    </footer>
+</body>
+</html>
